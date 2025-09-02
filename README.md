@@ -1,5 +1,8 @@
 # FastVLM Remote Zoo Models for FiftyOne
 
+![FastVLM Demo](./fastvlm-hq.gif)
+
+
 Apple's FastVLM vision-language models integrated as FiftyOne remote zoo models, enabling seamless visual question answering in your computer vision workflows.
 
 ## Available Models
