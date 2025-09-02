@@ -20,10 +20,7 @@
       "requirements": {
         "packages": [
           "torch",
-          "transformers",
-          "Pillow",
-          "accelerate", 
-          "bitsandbytes"
+          "transformers"
         ],
         "cpu": {
           "support": true
@@ -51,10 +48,7 @@
       "requirements": {
         "packages": [
           "torch",
-          "transformers",
-          "Pillow",
-          "accelerate",
-          "bitsandbytes"
+          "transformers"
         ],
         "cpu": {
           "support": true
@@ -82,10 +76,7 @@
       "requirements": {
         "packages": [
           "torch",
-          "transformers",
-          "Pillow",
-          "accelerate",
-          "bitsandbytes"
+          "transformers"
         ],
         "cpu": {
           "support": true
