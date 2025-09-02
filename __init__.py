@@ -6,7 +6,7 @@ from huggingface_hub import snapshot_download
 from fiftyone.operators import types
 
 # Import constants from zoo.py to ensure consistency
-from .zoo import OPERATIONS, FastVLMModel
+from .zoo import OPERATIONS, FastVLM
 
 MODES = {
     "vqa": "Visual question answering",
@@ -52,7 +52,7 @@ def load_model(model_name, model_path, **kwargs):
     print(f"Loading FastVLM model from {model_path}")
 
     # Create and return the model - operations specified at apply time
-    return FastVLMModel(model_path=model_path, **kwargs)
+    return FastVLM(model_path=model_path, **kwargs)
 
 
 def resolve_input(self, ctx):
