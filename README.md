@@ -144,4 +144,4 @@ See the `examples/` directory for Jupyter notebooks demonstrating:
 
 ## License
 
-This integration is provided under Apache-2.0 License. The FastVLM model itself is subject to [Apple's licensing terms](https://github.com/apple/ml-fastvlm/blob/main/LICENSE).
+This integration is provided under Apache-2.0 License. The FastVLM model itself is subject to [Apple's licensing terms](https://github.com/apple/ml-fastvlm/blob/main/LICENSE). "Apple Machine Learning Research Model is licensed under the Apple Machine Learning Research Model License Agreement." 
